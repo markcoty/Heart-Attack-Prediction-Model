@@ -1,6 +1,6 @@
 ## Heart Attack Prediction Project
 
-This project will use the data from this dataset https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset.
+This project uses the data from this dataset https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset.
 
 1. First, we perform Exploratory Data Analysis.
 
