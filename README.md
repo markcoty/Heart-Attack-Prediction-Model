@@ -21,7 +21,7 @@ Objective: Obtain, clean, and understand the dataset to prepare it for analysis 
     - The continuous columns are: 'age', 'resting_bp', 'cholesterol', 'max_heart_rate', 'previous_peak'
     - The target column is: ‘risk_level’
 
-  - 2.4 Descriptive Statistics - **See "Exploratory Data Analysis" folder for details.**
+  - 2.4 Descriptive Statistics: **See "Exploratory Data Analysis" folder for details.**
     - Summary statistics for continuous features.
     - Unique value counts for categorical features.
     - Count plots and violin plots for feature distributions.
@@ -38,7 +38,7 @@ Objective: Obtain, clean, and understand the dataset to prepare it for analysis 
     - Age: Most patients are between 40-65.
     - Max Heart Rate: Higher median for high-risk patients.
 
-  - 3.2 Correlation Analysis **See "Feature Relationships" folder for details.**
+  - 3.2 Correlation Analysis: **See "Feature Relationships" folder for details.**
     - Heatmaps showed significant correlations between:
       - Previous Peak and Risk Level
       - Number of Major Vessels and Risk Level
@@ -55,10 +55,10 @@ Objective: Build and evaluate logistic regression and alternative models for pre
     - Random Forest Classifier.
     - Gradient Boosted Trees (XGBoost).
 
-  - 4.3 Performance Metrics **See "Predictive Models" folder for details.**
+  - 4.3 Performance Metrics: **See "Predictive Models" folder for details.**
     - Accuracy, Precision, Recall, F1 Score, and AUC-ROC curve.
 
-5. Results **See "Results" folder for details.**
+5. Results: **See "Results" folder for details.**
 
 6. Model Interpretability
   - 6.1 Feature Importance: Top features contributing to predictions:
