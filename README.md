@@ -88,7 +88,7 @@ Objective: Build and evaluate logistic regression and alternative models for pre
     - Collect more extensive and diverse datasets.
     - Explore ensemble models for improved performance.
 
-All code for this project is available at: [GitHub Link](https://github.com/markcoty/Heart-Attack-Prediction-Model/tree/main)
+All code for this project is available in the: [Notebooks Folder](https://github.com/markcoty/Heart-Attack-Prediction-Model/tree/main/Notebooks)
 
 
 
